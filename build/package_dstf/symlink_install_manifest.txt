@@ -1,0 +1,17 @@
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/ament_index/resource_index/package_run_dependencies/package_dstf
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/ament_index/resource_index/parent_prefix_path/package_dstf
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/environment/ament_prefix_path.sh
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/environment/ament_prefix_path.dsv
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/environment/path.sh
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/environment/path.dsv
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/local_setup.bash
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/local_setup.sh
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/local_setup.zsh
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/local_setup.dsv
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/package.dsv
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/ament_index/resource_index/packages/package_dstf
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/cmake/package_dstfConfig.cmake
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/cmake/package_dstfConfig-version.cmake
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/package.xml
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/launch/listener.launch.py
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/launch/talker.launch.py

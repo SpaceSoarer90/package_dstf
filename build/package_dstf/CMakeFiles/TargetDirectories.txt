@@ -1,0 +1,9 @@
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf/CMakeFiles/uninstall.dir
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf/CMakeFiles/package_dstf_uninstall.dir
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf/CMakeFiles/test.dir
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf/CMakeFiles/edit_cache.dir
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf/CMakeFiles/rebuild_cache.dir
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf/CMakeFiles/list_install_components.dir
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf/CMakeFiles/install.dir
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf/CMakeFiles/install/local.dir
+/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf/CMakeFiles/install/strip.dir

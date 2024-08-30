@@ -1,0 +1,2 @@
+source;share/package_dstf/environment/ament_prefix_path.sh
+source;share/package_dstf/environment/path.sh

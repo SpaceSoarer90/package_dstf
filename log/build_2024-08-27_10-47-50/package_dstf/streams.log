@@ -1,0 +1,54 @@
+[0.033s] Invoking command in '/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/robolab-pc3/Documents/ws_dstf/src/package_dstf -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf
+[0.178s] -- The C compiler identification is GNU 13.2.0
+[0.342s] -- The CXX compiler identification is GNU 13.2.0
+[0.368s] -- Detecting C compiler ABI info
+[0.496s] -- Detecting C compiler ABI info - done
+[0.508s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.509s] -- Detecting C compile features
+[0.510s] -- Detecting C compile features - done
+[0.522s] -- Detecting CXX compiler ABI info
+[0.645s] -- Detecting CXX compiler ABI info - done
+[0.656s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.656s] -- Detecting CXX compile features
+[0.657s] -- Detecting CXX compile features - done
+[0.676s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.886s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.985s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.118s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.335s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.336s] -- Configured cppcheck include dirs: 
+[1.336s] -- Configured cppcheck exclude dirs and/or files: 
+[1.337s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.338s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.341s] -- Added test 'lint_cmake' to check CMake code style
+[1.343s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.354s] -- Added test 'uncrustify' to check C / C++ code style
+[1.354s] -- Configured uncrustify additional arguments: 
+[1.356s] -- Added test 'xmllint' to check XML markup files
+[1.359s] -- Configuring done (1.3s)
+[1.362s] -- Generating done (0.0s)
+[1.363s] -- Build files have been written to: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf
+[1.368s] Invoked command in '/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/robolab-pc3/Documents/ws_dstf/src/package_dstf -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf
+[1.370s] Invoking command in '/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf -- -j4 -l4
+[1.419s] Invoked command in '/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf -- -j4 -l4
+[1.451s] Invoking command in '/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf
+[1.461s] -- Install configuration: ""
+[1.461s] -- Execute custom install script
+[1.461s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/ament_index/resource_index/package_run_dependencies/package_dstf
+[1.471s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/ament_index/resource_index/parent_prefix_path/package_dstf
+[1.484s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/environment/ament_prefix_path.sh
+[1.494s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/environment/ament_prefix_path.dsv
+[1.504s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/environment/path.sh
+[1.517s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/environment/path.dsv
+[1.527s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/local_setup.bash
+[1.536s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/local_setup.sh
+[1.547s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/local_setup.zsh
+[1.557s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/local_setup.dsv
+[1.567s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/package.dsv
+[1.577s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/ament_index/resource_index/packages/package_dstf
+[1.587s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/cmake/package_dstfConfig.cmake
+[1.597s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/cmake/package_dstfConfig-version.cmake
+[1.608s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/package.xml
+[1.623s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/launch/listener.launch.py
+[1.638s] -- Symlinking: /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/install/package_dstf/share/package_dstf/launch/talker.launch.py
+[1.654s] Invoked command in '/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf
