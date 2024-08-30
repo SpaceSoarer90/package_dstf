@@ -1,1 +1,0 @@
-/home/robolab-pc3/Documents/ws_dstf/src/package_dstf/build/package_dstf/ament_cmake_environment_hooks/local_setup.sh
